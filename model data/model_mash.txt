@@ -1,0 +1,5 @@
+model/params/accuracy
+knn/{'algorithm': 'ball_tree', 'n_neighbors': 126, 'p': 2}/0.7365741542797085
+dectree/{'criterion': 'entropy', 'max_depth': 6, 'max_features': 'log2', 'splitter': 'best'}/0.7294379381633809
+svm/{'C': 1, 'degree': 1, 'gamma': 10, 'kernel': 'rbf'}/0.7369154452952659
+randfor/{'criterion': 'gini', 'max_depth': 6, 'max_features': 'sqrt', 'n_estimators': 200}/0.7382742570712495
